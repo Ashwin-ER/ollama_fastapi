@@ -25,7 +25,7 @@ A ChatGPT-like AI Assistant powered by Ollama, built with FastAPI backend and St
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/iammuhammadnoumankhan/OLLAMA_CHAT.git
+git clone https://github.com/Ashwin-ER/ollama_fastapi.git
 cd OLLAMA_CHAT
 ```
 
